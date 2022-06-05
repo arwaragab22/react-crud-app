@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/arwaragab22/react-crud-app/static/css/main.6220c85c.css",
+    "main.js": "/arwaragab22/react-crud-app/static/js/main.bd5d563c.js",
+    "static/js/787.28cb0dcd.chunk.js": "/arwaragab22/react-crud-app/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/arwaragab22/react-crud-app/index.html",
+    "main.6220c85c.css.map": "/arwaragab22/react-crud-app/static/css/main.6220c85c.css.map",
+    "main.bd5d563c.js.map": "/arwaragab22/react-crud-app/static/js/main.bd5d563c.js.map",
+    "787.28cb0dcd.chunk.js.map": "/arwaragab22/react-crud-app/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6220c85c.css",
+    "static/js/main.bd5d563c.js"
+  ]
+}
