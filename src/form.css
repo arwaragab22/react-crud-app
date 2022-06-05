@@ -1,0 +1,29 @@
+form{
+    display: flex;
+    height: 50px;
+    width: 900px;
+    position: relative;
+    margin: auto;
+}
+input[type="text"]{
+ width:70%;background-color:#c6cb95;
+}
+input[type="submit"]{width:30%;
+    background-color:  #A25B5B;
+    color: #809A6F;
+    font-size: 30px;
+    text-transform: capitalize;
+    font-style: italic;
+    font-weight: bolder;
+    border-radius: 5px;
+}
+input{
+    border: none;
+    outline: none;
+    border-radius: 6px;
+}
+input::placeholder{
+    color:#777;
+    text-transform: uppercase;
+    padding: 20px;
+}
